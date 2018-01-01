@@ -1,0 +1,1 @@
+pp 'パトカー'.split('').zip('タクシー'.split('')).flatten.join
